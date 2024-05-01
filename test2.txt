@@ -1,3 +1,4 @@
 
 //これは二つ目のテキストである//
-//syuuseisitayo//:
+//syuuseisitayo/
+3kaimee/:
